@@ -24,6 +24,7 @@ Shared repository for the F-23 Web Data Science exercises @Aalborg University 20
 . Adám Rumi - @grigorirasputin - <arumi21@student.aau.dk>
 - Matteo Lissandrini - @Kuzeko - <matteo@cs.aau.dk>
 - Daniele Dell'Aglio - @dellaglio - <dade@cs.aau.dk>
+- Thor Skatka - @ThorSkatka - <thorje21@student.aau.dk>
 - Tobias Pedersen - @tobo03
 
 
