@@ -26,6 +26,7 @@ Shared repository for the F-23 Web Data Science exercises @Aalborg University 20
 - Daniele Dell'Aglio - @dellaglio - <dade@cs.aau.dk>
 - Thor Skatka - @ThorSkatka - <thorje21@student.aau.dk>
 - Tobias Pedersen - @tobo03
+- Hannie D. - @SweetAndJuicy
 
 
 
