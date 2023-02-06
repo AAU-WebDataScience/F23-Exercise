@@ -27,7 +27,7 @@ Shared repository for the F-23 Web Data Science exercises @Aalborg University 20
 - Thor Skatka - @ThorSkatka - <thorje21@student.aau.dk>
 - Tobias Pedersen - @tobo03
 - Hannie D. - @SweetAndJuicy
-
+- Xiaoyin Chang  @xiaoyin0721  -<xchang21@student.aau.dk>
 
 
 
