@@ -19,6 +19,7 @@ Shared repository for the F-23 Web Data Science exercises @Aalborg University 20
 
 
 - Name - @GithubUser - <email@student.aau.dk>
+- PetL1988
 
 - Matteo Lissandrini - @Kuzeko - <matteo@cs.aau.dk>
 - Daniele Dell'Aglio - @dellaglio - <dade@cs.aau.dk>
