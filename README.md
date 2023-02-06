@@ -28,7 +28,7 @@ Shared repository for the F-23 Web Data Science exercises @Aalborg University 20
 - Tobias Pedersen - @tobo03
 - Hannie D. - @SweetAndJuicy
 - Xiaoyin Chang  @xiaoyin0721  -<xchang21@student.aau.dk>
-
+- Kristian Sjørslev @sjorslev14 - <knielf21@student.aau.dk>
 
 
 ## Instructions
