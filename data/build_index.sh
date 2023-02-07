@@ -35,7 +35,7 @@ read -r -d '' HTML2 <<'EOF'
     <p>Create for the course on <a href="https://moduler.aau.dk/course/2021-2022/DSNDVB403?lang=en-GB">Web Data Science</a> 
        at <a href="https://www.cs.aau.dk/">Aalborg University</a>
     </p>
-    <p>Copyright 2022</p>
+    <p>Copyright $(date)</p>
   </footer>
 </body>
 
