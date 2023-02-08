@@ -1,6 +1,10 @@
 # F23-Exercise
 
+**This repo only contains public data to be published on `smallweb-f23.netlify.app`**
+
 Shared repository for the F-23 Web Data Science exercises @Aalborg University 2023
+
+
 
 
 
