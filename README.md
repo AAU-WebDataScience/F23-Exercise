@@ -1,6 +1,10 @@
 # F23-Exercise
 
+**This repo only contains public data to be published on `smallweb-f23.netlify.app`**
+
 Shared repository for the F-23 Web Data Science exercises @Aalborg University 2023
+
+
 
 
 
@@ -24,12 +28,15 @@ Shared repository for the F-23 Web Data Science exercises @Aalborg University 20
 - Adám Rumi - @grigorirasputin - <arumi21@student.aau.dk>
 - Matteo Lissandrini - @Kuzeko - <matteo@cs.aau.dk>
 - Daniele Dell'Aglio - @dellaglio - <dade@cs.aau.dk>
+-                    - @EBrandDV  - 
 - Thor Skatka - @ThorSkatka - <thorje21@student.aau.dk>
 - Tobias Pedersen - @tobo03
 - Hannie D. - @SweetAndJuicy
 - Xiaoyin Chang  @xiaoyin0721  -<xchang21@student.aau.dk>
+- Tereza @Tereza-art 
 - Kristian Sjørslev @sjorslev14 - <knielf21@student.aau.dk>
 - Sandra S. Pedersen - @Sandra135 
+
 
 
 ## Instructions
